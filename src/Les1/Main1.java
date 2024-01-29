@@ -27,5 +27,5 @@ public class Main1 {
         else System.out.println("Доброй ночи, "+name+"!");
         }
     }
-    31:36
+//    31:36
 
